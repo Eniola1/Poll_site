@@ -1,0 +1,39 @@
+#img1
+ {
+    margin-top: -22px;   
+ }
+
+ #navb
+{
+    list-style: none;
+}
+
+ #button1
+{
+  width:100px;
+  height:40px;
+  border-radius:3px;
+  border:1px; 
+  background-color: #13d0ab;
+  color: #FFF;
+  font-family: calibri;
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+#button1:hover
+{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
